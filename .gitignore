@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+#data
+regression_data.npy
+target_values.txt
+
+
 # Distribution / packaging
 .Python
 build/
