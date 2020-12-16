@@ -12,7 +12,7 @@ All implementations are written in form of jupyter notebooks.
 
 |Notebook|Content|Package needed (except `numpy`, `matplotlib`) |
 |:---|:---|:---|
-|Without_Feature_Selection.ipynb|Regressions with features selection|`sklearn`|
+|Without_Feature_Selection.ipynb|Regressions without features selection|`sklearn`|
 |Feature Selection_PCA.ipynb|Regressions with features selected by PCA|`sklearn`|
 |Feature_Selection_Importance.ipynb|Regressions with feature selected by importance score|`sklearn`|
 |Feature_Selection_RFE.ipynb|Regressions with features selected by recursive feature elimination|`sklearn`|
