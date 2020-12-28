@@ -1,6 +1,6 @@
 # cs-433-project-2-bio-chem-env-mater
 
-The repository includes our work on Project 2 of CS-422 machine learning course at EPFL.
+The repository includes our work on Project 2 of CS-433 machine learning course at EPFL.
 
 ## Data
 
